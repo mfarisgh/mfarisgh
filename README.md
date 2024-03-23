@@ -43,7 +43,6 @@
 ### Skills
 
 * Java
-<!--* MySQL-->
 * Selenium
 * TestNG
 * Cucumber
@@ -51,9 +50,10 @@
 * Playwright
 * Katalon
 * LambdaTest
-<!--* Jenkins
+* Jenkins
 * GitLab CI
-* AWS EC2-->
+* CircleCI
+* AWS EC2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,8 +67,8 @@
 
 ### Certifications
 
-* ISTQB Certified Testing Foundation Level (CTFL)
-* AWS Certified Cloud Practitioner
+* [ISTQB Certified Testing Foundation Level (CTFL)](https://skillshub.isqi.org/ba43bc46-8e3d-443f-a191-84b44ca578f5#gs.68odib)
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ee7cd9ed-117b-46d5-aa0d-b7a87eebbc5e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
