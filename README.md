@@ -51,8 +51,6 @@
 * Katalon
 * LambdaTest
 * Jenkins
-* GitLab CI
-* CircleCI
 * AWS EC2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
